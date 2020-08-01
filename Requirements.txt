@@ -1,0 +1,17 @@
+Install all libraries using pip3
+
+numpy==1.16.2
+dlib==19.20.0
+pygame==1.9.4
+imutils==0.5.3
+opencv_python==3.4.6  (cv2)
+scipy==1.1.0
+
+NEXMO Libs
+
+client
+nexmo==2.4.0
+time
+pprint
+
+Here I used the raspberry pi 4 controller and raspbian os, One can use Ubuntu server also. 
