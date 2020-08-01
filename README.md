@@ -1,5 +1,5 @@
 # VisionBased_drowsiness_detector
-Drowsiness detection system to do continuous monitorinfg of the driver and will able to alert the driver from falling asleep.
+Drowsiness detection system to do continuous monitoring of the driver and will able to alert the driver from falling asleep.
 In this program we check how long a person's eyes have been closed for. If the eyes have been closed for a long period i.e. 
 beyond a certain threshold value, the program will alert the user by playing an alarm sound,text notification and text to speech call using nexmo api.
 
